@@ -21,7 +21,7 @@ const players = [
         birthYear: 2013,
         preferredFoot: "Prawa",
         photo: null,
-        notes: "NR: [+48 507 215 093]"
+        notes: "NR: [+48 507 215 093] NR DO MAMY: [+48 693 329 626]"
     },
     {
         id: 3,
