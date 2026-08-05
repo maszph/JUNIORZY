@@ -2,7 +2,7 @@
 const matches = [
     {
         id: 1,
-        opponent: "UKS SOKÓŁ ZBROSŁAWICE",
+        opponent: "UKS SOKÓŁ ZBROSŁAWICE (SPARING)",
         date: "2026-08-8",
         time: "11`:00",
         place: "Stadion Czarni Kozłowa Góra",
@@ -11,7 +11,7 @@ const matches = [
     },
     {
         id: 2,
-        opponent: "TS GWAREK TARNOWSKIE GÓRY",
+        opponent: "TS GWAREK TARNOWSKIE GÓRY (SPARING)",
         date: "2026-08-16",
         time: "10:00",
         place: "Stadion Czarni Kozłowa Góra",
@@ -20,7 +20,7 @@ const matches = [
     },
     {
         id: 3,
-        opponent: "KS 1.FC KATOWICE",
+        opponent: "KS 1.FC KATOWICE (SPARING)",
         date: "2026-07-27",
         time: "20:00",
         place: "Boiska Sportowe RAPIDego 6, Katowice",
