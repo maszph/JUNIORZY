@@ -13,7 +13,7 @@ const trainings = [
         id: 2,
         day: "TRENING",
         date: "2026-08-05",
-        time: "18:30",
+        time: "17:00",
         place: "Boisko Czarni Kozłowa Góra",
         address: "ul. Pokoju, Kozłowa Góra",
         topic: "TRENING"
@@ -22,7 +22,7 @@ const trainings = [
         id: 3,
         day: "TRENING",
         date: "2026-08-07",
-        time: "17:30",
+        time: "17:00",
         place: "Boisko Czarni Kozłowa Góra",
         address: "ul. Pokoju, Kozłowa Góra",
         topic: "TRENING"
