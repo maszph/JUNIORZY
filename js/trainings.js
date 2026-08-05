@@ -27,4 +27,22 @@ const trainings = [
         address: "ul. Pokoju, Kozłowa Góra",
         topic: "TRENING"
     },
+    {
+        id: 4,
+        day: "TRENING",
+        date: "2026-08-11",
+        time: "16:30",
+        place: "Boisko Czarni Kozłowa Góra",
+        address: "ul. Pokoju, Kozłowa Góra",
+        topic: "TRENING"
+    },
+    {
+        id: 5,
+        day: "TRENING",
+        date: "2026-08-12",
+        time: "17:00",
+        place: "Boisko Czarni Kozłowa Góra",
+        address: "ul. Pokoju, Kozłowa Góra",
+        topic: "TRENING"
+    },
 ];
