@@ -20,11 +20,10 @@ const matches = [
     },
     {
         id: 3,
-        opponent: "TS GWAREK TARNOWSKIE GÓRY",
-        date: "2026-08-2",
-        time: "10:00",
-        place: "Stadion Czarni Kozłowa Góra",
-        address: "ul. Pokoju, Kozłowa Góra",
+        opponent: "KS 1.FC KATOWICE",
+        date: "2026-07-27",
+        time: "20:00",
+        place: "Boiska Sportowe RAPIDego 6, Katowice",
         type: "WYJAZD"
     },
     /*
