@@ -19,7 +19,7 @@ const matches = [
         type: "DOM"
     },
     {
-        id: 2,
+        id: 3,
         opponent: "TS GWAREK TARNOWSKIE GÓRY",
         date: "2026-08-2",
         time: "10:00",
@@ -29,7 +29,7 @@ const matches = [
     },
     /*
     {
-        id: 2,
+        id: 3,
         opponent: "TS GWAREK TARNOWSKIE GÓRY",
         date: "2026-08-16",
         time: "10:00",
