@@ -17,7 +17,6 @@ const matches = [
         place: "Boiska Sportowe RAPIDego 6, Katowice",
         type: "WYJAZD"
     },
-    [
     {
         id: 4,
         opponent: "KS BURZA BOROWA WIEŚ",
@@ -114,7 +113,6 @@ const matches = [
         place: "",
         type: "WYJAZD"
     }
-]
     /*
     {
         id: 3,
