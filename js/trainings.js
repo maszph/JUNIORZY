@@ -43,6 +43,33 @@ const trainings = [
         time: "17:00",
         place: "Boisko Czarni Kozłowa Góra",
         address: "ul. Pokoju, Kozłowa Góra",
+        topic: "ROZGRZEWKA, STACJE, GIERKA"
+    },
+    {
+        id: 6,
+        day: "TRENING",
+        date: "2026-08-15",
+        time: "12:30",
+        place: "Boisko Czarni Kozłowa Góra",
+        address: "ul. Pokoju, Kozłowa Góra",
+        topic: "TRENING STRZELECKI"
+    },
+    {
+        id: 7,
+        day: "TRENING",
+        date: "2026-08-17",
+        time: "16:30",
+        place: "Boisko Czarni Kozłowa Góra",
+        address: "ul. Pokoju, Kozłowa Góra",
+        topic: "TRENING"
+    },
+    {
+        id: 8,
+        day: "TRENING",
+        date: "2026-08-21",
+        time: "16:30",
+        place: "Boisko Czarni Kozłowa Góra",
+        address: "ul. Pokoju, Kozłowa Góra",
         topic: "TRENING"
     },
 ];
