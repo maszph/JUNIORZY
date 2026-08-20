@@ -126,6 +126,24 @@ const matches = [
         address: "Sportowa 21, 44-100 Gliwice",
         type: "WYJAZD"
     },
+    {
+        id: 15,
+        opponent: "LKS VICTORIA CISEK (SPARING)",
+        date: "2026-23-08",
+        time: "15:00",
+        place: "Stadion Czarni Kozłowa Góra",
+        address: "ul. Pokoju, Kozłowa Góra",
+        type: "DOM"
+    },
+    {
+        id: 16,
+        opponent: "MKS CONCORDIA KNURÓW",
+        date: "2026-26-08",
+        time: "11:00",
+        place: "Stadion Czarni Kozłowa Góra",
+        address: "ul. Pokoju, Kozłowa Góra",
+        type: "DOM"
+    },
         /*
     {
         id: 3,
